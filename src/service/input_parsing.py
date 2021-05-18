@@ -20,7 +20,6 @@ def get_employee_working_schedule(employee_text):
 
 def get_working_shifts(working_schedule):
     shifts = working_schedule.split(',')
-    print(shifts)
     if '' in shifts:
         raise InputFormatError('There is an empty shift (",,")')
     return shifts
