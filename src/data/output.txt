@@ -1,6 +1,0 @@
-The amount to pay RENE is: 215.00 USD
-The amount to pay ASTRID is: 85.00 USD
-The amount to pay PAOLA is: 395.00 USD
-The amount to pay HERNAN is: 460.00 USD
-The amount to pay MARIA is: 510.00 USD
-The amount to pay ANTHONY is: 215.00 USD
