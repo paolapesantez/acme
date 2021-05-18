@@ -1,5 +1,5 @@
 import argparse
-from src.data.file import read_file_lines
+from src.repository.file import read_file_lines
 from src.domain.employee import Employee
 from src.service.input_parsing import get_employee_name, get_employee_working_schedule
 
