@@ -19,3 +19,9 @@ def read_file_lines(file_name):
         print('File not found')
 
     return lines
+
+def write_output_file(file_name,employees):
+    file_path = get_file_path(file_name)  
+    with open(file_path, "w") as output_file:
+        for employee in employees:
+            output_file.write(f'{employee}\n')        

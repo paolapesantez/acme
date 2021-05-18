@@ -1,5 +1,5 @@
 import argparse
-from src.repository.file import read_file_lines
+from src.repository.file import read_file_lines, write_output_file
 from src.domain.employee import Employee
 from src.service.input_parsing import get_employee_name, get_employee_working_schedule
 
@@ -28,9 +28,7 @@ def main():
             employees_salary.append(employee.__str__())
     if args.output:
         output_file_name = args.output
-        with open(output_file_name, "w") as text_file:
-            for employee in employees_salary:
-                text_file.write(f'{employee}\n')        
+        write_output_file(output_file_name,employees_salary)
 
 
 if __name__ == "__main__":
