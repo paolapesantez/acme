@@ -68,8 +68,11 @@ The diagram was created using Lucidchart.
     
 ## Methodology
 Since this is a little project with just one developer I decided to use the Kanban agile methodology. Kanban helped me to stay focused on finishing existing work before starting a new one. I was able to maximize efficiency by setting priorities for the activities and improving and refactoring the code continuously.
+To see the complete list of activities in the dashboard please follow the following link [Kanban Dashboard]
 <p align="center">
   <img src="kanban.png" alt="Kanban Dashboard" />
 </p>
-To see al the activities in the dashboard please follow this link [Kanban Dashboard](https://github.com/paolapesantez/acme/projects/1)
+
+    
+ [Kanban Dashboard]: <https://github.com/paolapesantez/acme/projects/1>    
     
