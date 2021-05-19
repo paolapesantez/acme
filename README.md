@@ -62,7 +62,7 @@ I take a reasonable time to analyze what will be the flow of the application (us
 There are several architectures well known and used depending the particular problem such as: MVC, functional, module, hexagonal, clean, etc. However, I decided to adapt DDD (Domain Driven Design) for this particular problem. One of the advantages is that the structure allows the developers to understand the code easily.
 The diagram was created using Lucidchart.
 <p align="center">
-  <img src="ArchitectureComponents.png" alt="Architecture Components" width="250" height="250" />
+  <img src="ArchitectureComponents.png" alt="Architecture Components" width="500" height="500" />
 </p>
     
     
