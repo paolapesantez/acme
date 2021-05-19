@@ -62,12 +62,14 @@ I take a reasonable time to analyze what will be the flow of the application (us
 There are several architectures well known and used depending the particular problem such as: MVC, functional, module, hexagonal, clean, etc. However, I decided to adapt DDD (Domain Driven Design) for this particular problem. One of the advantages is that the structure allows the developers to understand the code easily.
 The diagram was created using Lucidchart.
 <p align="center">
-  <img src="ArchitectureComponents.png" alt="Architecture Components" width="350" height="350" />
+  <img src="ArchitectureComponents.png" alt="Architecture Components" width="350" height="320" />
 </p>
     
     
 ## Methodology
-Since this is a little project with just one developer I decided to use the Kanban agile methodology. Kanban helped me to stay focused on finishing existing work before starting a new one. I was able to maximize efficiency setting priorities for the activities and improving and refactoring the code continuously.
+Since this is a little project with just one developer I decided to use the Kanban agile methodology. Kanban helped me to stay focused on finishing existing work before starting a new one. I was able to maximize efficiency by setting priorities for the activities and improving and refactoring the code continuously.
 <p align="center">
   <img src="kanban.png" alt="Kanban Dashboard" />
 </p>
+To see al the activities in the dashboard please follow this link [Kanban Dashboard](https://github.com/paolapesantez/acme/projects/1)
+    
