@@ -42,7 +42,7 @@ For example:
         ```console
         python app.py --input <your data file>
         ```
-    - Make sure that the input file has been created inside the directory where you are running the application 
+    - Make sure that the input file has been created inside the directory where you are running the application. Although, creating the input files inside the data directory is recommended.
     - The directory data contains a testing input file you can use
         ```console
         python app.py --input data/input.txt
